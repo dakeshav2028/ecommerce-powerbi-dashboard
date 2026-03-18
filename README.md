@@ -19,10 +19,10 @@ A full-scale, 4-page interactive business intelligence dashboard built in **Powe
 
 | Page | Preview |
 |------|---------|
-| 📈 E-Commerce Sales Analytics | ![Sales](screenshot/ecom-page-00001.jpg) |
-| 📣 Marketing & Traffic Performance | ![Marketing](screenshot/ecom-page-00002.jpg) |
-| 📦 Product & Order Insights | ![Product](screenshot/ecom-page-00003.jpg) |
-| 📱 Customer & Device Behavior | ![Device](screenshot/ecom-page-00004.jpg) |
+| 📈 E-Commerce Sales Analytics | ![Sales](screenshots/ecom-page-00001.jpg) |
+| 📣 Marketing & Traffic Performance | ![Marketing](screenshots/ecom-page-00002.jpg) |
+| 📦 Product & Order Insights | ![Product](screenshots/ecom-page-00003.jpg) |
+| 📱 Customer & Device Behavior | ![Device](screenshots/ecom-page-00004.jpg) |
 
 ---
 
