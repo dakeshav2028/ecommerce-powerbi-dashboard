@@ -19,10 +19,10 @@ A full-scale, 4-page interactive business intelligence dashboard built in **Powe
 
 | Page | Preview |
 |------|---------|
-| 📈 E-Commerce Sales Analytics | ![Sales](screenshots/ecom-page-00001.jpg) |
-| 📣 Marketing & Traffic Performance | ![Marketing](screenshots/ecom-page-00002.jpg) |
-| 📦 Product & Order Insights | ![Product](screenshots/ecom-page-00003.jpg) |
-| 📱 Customer & Device Behavior | ![Device](screenshots/ecom-page-00004.jpg) |
+| 📈 E-Commerce Sales Analytics | ![Sales](<!-- Uploading "ecom-page-00001.jpg"... -->) |
+| 📣 Marketing & Traffic Performance | ![Marketing](<!-- Uploading "ecom-page-00002.jpg"... -->) |
+| 📦 Product & Order Insights | ![Product](<!-- Uploading "ecom-page-00003.jpg"... -->) |
+| 📱 Customer & Device Behavior | ![Device](<!-- Uploading "ecom-page-00004.jpg"... -->) |
 
 ---
 
@@ -182,8 +182,8 @@ ecommerce-powerbi-dashboard/
 
 ## 👤 Author
 
-**Dakeshav** — Aspiring Data Analyst  
-🔗 [GitHub](https://github.com/dakeshav2028) | 🔗 [LinkedIn](#)
+**KeshavSarda** — Aspiring Data Analyst  
+🔗 [GitHub](https://github.com/dakeshav2028) | 🔗 [LinkedIn](https://linkedin.com/in/keshav-sardaofficial)
 
 ---
 
