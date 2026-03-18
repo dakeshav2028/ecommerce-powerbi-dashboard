@@ -139,7 +139,8 @@ Refund Amount = SUM(order_item_refunds[refund_amount_usd])
 ```
 ecommerce-powerbi-dashboard/
 │
-├── 📊 ecommerce_dashboard.pbix       # Power BI project file
+├── 📊 ecom.zip
+|   ├── ecom.pbix     # Power BI project file
 │
 ├── 📁 data/                          # Raw dataset (CSV exports)
 │   ├── orders.csv
@@ -166,7 +167,7 @@ ecommerce-powerbi-dashboard/
    ```bash
    git clone https://github.com/dakeshav2028/ecommerce-powerbi-dashboard.git
    ```
-2. Open `ecommerce_dashboard.pbix` in **Power BI Desktop** (free download from Microsoft)
+2. Open `ecom.pbix` in **Power BI Desktop** (free download from Microsoft)
 3. If data doesn't load automatically, go to **Home → Transform Data → Data Source Settings** and re-point to the `/data` folder
 4. Explore all 4 dashboard pages using the slicers and filters
 
